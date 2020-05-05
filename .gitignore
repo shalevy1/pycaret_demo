@@ -1,0 +1,8 @@
+#Environnement
+pycaret-env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other
+.idea 
